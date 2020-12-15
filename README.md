@@ -10,3 +10,8 @@ As for primary major tree species in these areas, Neota would have spruce/fir (t
 
 The Rawah and Comanche Peak areas would tend to be more typical of the overall dataset than either the Neota or Cache la Poudre, due to their assortment of tree species and range of predictive variable values (elevation, etc.) Cache la Poudre would probably be more unique than the others, due to its relatively low elevation range and species composition.
 
+
+
+2- Clustering (Customer Segmentation) Project
+
+In this project, customers are required to be segmented according to the purchasing history obtained from the membership cards of a big mall.
