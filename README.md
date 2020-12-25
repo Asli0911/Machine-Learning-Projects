@@ -15,3 +15,8 @@ The Rawah and Comanche Peak areas would tend to be more typical of the overall d
 2- Clustering (Customer Segmentation) Project
 
 In this project, customers are required to be segmented according to the purchasing history obtained from the membership cards of a big mall.
+
+
+3- AutoScout Price Estimation Project
+
+After data cleaning part, I tried different models to estimate the prices of the cars.
