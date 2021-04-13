@@ -11,3 +11,8 @@ In this project, customers are required to be segmented according to the purchas
 3- AutoScout Price Estimation Project
 
 After data cleaning part, I tried different models to estimate the prices of the cars.
+
+
+4- Forest Fires Prediction Project
+
+Predicting forest fires from month, day, temperature, wind, rain, etc. variables (classification project). 
